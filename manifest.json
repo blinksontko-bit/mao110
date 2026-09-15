@@ -1,0 +1,32 @@
+{
+  "schema": "scam_reports.v1",
+  "exportedAt": "2026-09-15T07:04:32.242Z",
+  "count": 11214,
+  "partSize": 500,
+  "partCount": 23,
+  "parts": [
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_001.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_002.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_003.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_004.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_005.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_006.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_007.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_008.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_009.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_010.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_011.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_012.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_013.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_014.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_015.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_016.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_017.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_018.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_019.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_020.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_021.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_022.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/part_023.json"
+  ]
+}
