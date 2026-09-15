@@ -1,0 +1,12 @@
+{
+  "schema": "scam_reports.v1",
+  "exportedAt": "2026-09-15T08:26:18.295Z",
+  "count": 11214,
+  "maxB64KB": 95,
+  "blockCount": 3,
+  "blocks": [
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/data/block_001.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/data/block_002.json",
+    "https://raw.githubusercontent.com/blinksontko-bit/mao110/main/data/block_003.json"
+  ]
+}
