@@ -24,4 +24,4 @@
 `id` `sourceMsgId` `channelMsgId` `channelMsgIds[]` `channelLink` `nickname` `username` `tgid` `permLink` `wallet` `amount` `description` `reporterId` `reporterUsername` `reporterNickname` `createdAt`
 
 ---
-_导出时间：2026-09-15T07:25:18.329Z · 由 mao110 机器人自动生成_
+_导出时间：2026-09-15T07:30:32.224Z · 由 mao110 机器人自动生成_
